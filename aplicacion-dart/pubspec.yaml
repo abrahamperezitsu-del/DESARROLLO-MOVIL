@@ -1,0 +1,9 @@
+name: flutter_dos_pantallas
+description: Aplicación Flutter con dos pantallas que comparten un mensaje mediante empaquetado.
+publish_to: "none"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
