@@ -1,1 +1,2 @@
 # DESARROLLO-MOVIL
+La asignatura de **Desarrollo Móvil** capacita en la creación ágil de aplicaciones multiplataforma de alto rendimiento. Se fundamenta en el lenguaje de programación **Dart** y el framework **Flutter** para el diseño de interfaces reactivas, empleando **Android Studio** como entorno de desarrollo integrado (IDE) principal para la codificación, depuración y emulación de los proyectos.
